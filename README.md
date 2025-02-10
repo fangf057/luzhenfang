@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**luzhenfang/luzhenfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**fangf057/fangf057** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzhenfang)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luzhenfang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fangf057)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fangf057&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
